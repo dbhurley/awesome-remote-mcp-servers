@@ -578,7 +578,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read pipeline, contacts, properties, viewings and auctions for a Romanian real-estate agency's CRM.
 - [ppl](https://withppl.com) `https://withppl.com/mcp`
   [![ppl MCP connector](https://glama.ai/mcp/connectors/io.github.dbhurley/ppl/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.dbhurley/ppl)
-  🔑 - Personal CRM as agent memory: contacts, notes, journal, tasks, reminders, semantic search; 100 tools.
+  🔐 - Personal CRM as agent memory: contacts, notes, journal, tasks, reminders, semantic search; 100 tools.
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
